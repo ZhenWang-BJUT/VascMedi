@@ -1,0 +1,13 @@
+# Python 3.11. Install a CUDA-compatible PyTorch build for the 4-bit configurations.
+torch==2.5.1
+transformers==4.40.2
+peft==0.10.0
+accelerate==0.30.0
+bitsandbytes==0.43.1
+safetensors==0.4.3
+numpy==2.2.6
+scikit-learn==1.6.1
+scipy==1.13.0
+pandas==2.2.2
+matplotlib==3.9.1
+Pillow==10.3.0
